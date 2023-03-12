@@ -1,0 +1,17 @@
+<svg width='24' height='24' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'><rect width='24' height='24' stroke='none' fill='#000000' opacity='0'/>
+
+
+<g transform="matrix(0.5 0 0 0.5 12 12)" >
+<g style="" >
+<g transform="matrix(1 0 0 1 0.07 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: #e6cabe; fill-rule: nonzero; opacity: 1;" transform=" translate(-20.07, -20)" d="M 7.244 28.5 L 0.634 20 L 7.244 11.5 L 39.5 11.5 L 39.5 28.5 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 0 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: transparent; fill-rule: nonzero; opacity: 1;" transform=" translate(-20, -20)" d="M 39 12 L 39 28 L 7.489 28 L 1.2669999999999995 20 L 7.489 12 L 39 12 M 40 11 L 7 11 L 0 20 L 7 29 L 40 29 L 40 11 L 40 11 z" stroke-linecap="round" />
+</g>
+<g transform="matrix(1 0 0 1 2 0)" >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" translate(-22, -20)" d="M 20 20 C 20 21.133 19.133 22 18 22 C 16.867 22 16 21.133 16 20 C 16 18.867 16.867 18 18 18 C 19.133 18 20 18.867 20 20 z M 10 18 C 8.867 18 8 18.867 8 20 C 8 21.133 8.867 22 10 22 C 11.133 22 12 21.133 12 20 C 12 18.867 11.133 18 10 18 z M 34 18 C 32.867 18 32 18.867 32 20 C 32 21.133 32.867 22 34 22 C 35.133 22 36 21.133 36 20 C 36 18.867 35.133 18 34 18 z M 26 18 C 24.867 18 24 18.867 24 20 C 24 21.133 24.867 22 26 22 C 27.133 22 28 21.133 28 20 C 28 18.867 27.133 18 26 18 z" stroke-linecap="round" />
+</g>
+</g>
+</g>
+</svg>
